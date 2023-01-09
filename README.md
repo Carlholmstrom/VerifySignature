@@ -1,1 +1,1 @@
-# VerifySignature
+# VerifySignature app. Work in progress.
